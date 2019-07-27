@@ -1,0 +1,5 @@
+# Do not upload this folder to a public repo, since the data is not yet public.
+zCOSMOS-deep/
+
+# No need to upload Jupyter Notebook checkpoints.
+.ipynb_checkpoints/
