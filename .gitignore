@@ -3,3 +3,6 @@ zCOSMOS-deep/
 
 # No need to upload Jupyter Notebook checkpoints.
 .ipynb_checkpoints/
+
+# No need to upload automatically downloaded files.
+downloads/
